@@ -1,14 +1,15 @@
 
+### Hi there 👋 
+
+RAFAEL FAIANI
+
+Data Analytics | Business Intelligence | SQL | ETL | Pentaho | Power BI | Google Data Studio | Python | MBA Finanças Corporativas | Engenheiro de Telecomunicações
 
 <!--
-### Hi there 👋
 **rffaiani/rffaiani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-###RAFAEL FAIANI
-
-###Data Analytics | Business Intelligence | SQL | ETL | Pentaho | Power BI | Google Data Studio | Python | MBA Finanças Corporativas | Engenheiro de Telecomunicações
-
+###
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
